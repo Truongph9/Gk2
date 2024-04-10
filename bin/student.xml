@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <id>1</id>
+        <Name>Nguyễn Phúc Trường</Name>
+        <Address>Đà Nẵng</Address>
+        <DateOfBirth>2005-10-09</DateOfBirth>
+    </Student>
+    <Student>
+        <id>2</id>
+        <Name>Hồ Đức Tuấn Anh</Name>
+        <Address>Japan</Address>
+        <DateOfBirth>2005-10-02</DateOfBirth>
+    </Student>
+    <Student>
+        <id>3</id>
+        <Name>Trương Tiến Đạt</Name>
+        <Address>Đà Nẵng</Address>
+        <DateOfBirth>2005-03-12</DateOfBirth>
+    </Student>
+    <Student>
+        <id>4</id>
+        <Name>Nguyen Ngọc Thịnh </Name>
+        <Address>Đà Nẵng</Address>
+        <DateOfBirth>2005-03-10</DateOfBirth>
+    </Student>
+    <Student>
+        <id>5</id>
+        <Name>Nguyễn Đức Hải</Name>
+        <Address>Quảng Trị</Address>
+        <DateOfBirth>2005-06-06</DateOfBirth>
+    </Student>
+</Students>
